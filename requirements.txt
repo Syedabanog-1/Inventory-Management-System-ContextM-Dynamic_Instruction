@@ -1,0 +1,6 @@
+openai-agents
+google-generativeai
+py-dotenv
+rich
+pydantic
+typing
