@@ -162,7 +162,9 @@ Function Tools (Add / Update / Delete) → The Agent uses the right function too
 
 Update Context → The inventory context is updated with the new data.
 
-End → The process finishes succ
+Return + Display Result → The system shows the updated inventory to the user.
+
+End → The process finishes successfully.
 
 
 https://github.com/user-attachments/assets/24a4acf8-ea30-4a74-b4ed-7a803fa2563f
@@ -172,6 +174,3 @@ https://github.com/user-attachments/assets/24a4acf8-ea30-4a74-b4ed-7a803fa2563f
 
 
 
-Return + Display Result → The system shows the updated inventory to the user.
-
-End → The process finishes successfully.
