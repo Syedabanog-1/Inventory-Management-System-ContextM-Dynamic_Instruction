@@ -162,41 +162,7 @@ Function Tools (Add / Update / Delete) → The Agent uses the right function too
 
 Update Context → The inventory context is updated with the new data.
 
-End → The process finishes successfully.
-
-+----------------+
-|     User       |
-| (Commands:     |
-| Add/Update/Del |
-| Save)          |
-+----------------+
-        |
-        v
-+----------------+
-|    Agent       |
-| (Inventory Mgr)|
-+----------------+
-        |
-        v
-+----------------------------+
-| Tools:                     |
-|  - add_item                |
-|  - update_item             |
-|  - delete_item             |
-|  - save_and_close          |
-+----------------------------+
-        |
-        v
-+----------------+
-|  Inventory     |
-|  Context (DB)  |
-+----------------+
-        |
-        v
-+----------------+
-|    Output      |
-| (Result shown) |
-+----------------+
+End → The process finishes succ
 
 
 https://github.com/user-attachments/assets/24a4acf8-ea30-4a74-b4ed-7a803fa2563f
