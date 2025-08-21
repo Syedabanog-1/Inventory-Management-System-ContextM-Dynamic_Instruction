@@ -166,6 +166,7 @@ Return + Display Result → The system shows the updated inventory to the user.
 
 End → The process finishes successfully.
 
+<img width="1589" height="1118" alt="image" src="https://github.com/user-attachments/assets/0235bff7-feff-4c04-90be-2f9849d26db8" />
 
 https://github.com/user-attachments/assets/24a4acf8-ea30-4a74-b4ed-7a803fa2563f
 
